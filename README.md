@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Praj4936@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **You can't make everyone happy ✨ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
