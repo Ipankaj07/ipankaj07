@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cloning of Groww-Website](https://github.com/taherahmed14/Groww-Clone)
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **mongoDB**
 
 - 📫 How to reach me **Praj4936@gmail.com**
 
