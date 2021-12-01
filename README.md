@@ -1,20 +1,56 @@
-<h1 align="center">Hi 👋, I'm Pankaj Raj</h1>
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pankaj Raj</h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
+I'm a passionate full stack web developer from india.
 
-- 🔭 I’m currently working on [Cloning of Groww-Website](https://github.com/taherahmed14/Groww-Clone)
+<br/>
 
-- 🌱 I’m currently learning **mongoDB**
+- 👨‍💻 I’m currently working on **web development technologies** like JavaScript, React etc.
+- 📚 I’m currently learning everything about **Frontend** and **Backend** technologies 😅
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new **ideas**.
+- ⚡ Fun fact **You can't make everyone happy** ✨
 
-- 📫 How to reach me **Praj4936@gmail.com**
+</br>
 
-- ⚡ Fun fact **You can't make everyone happy** ✨ 
+<!-- ## 🚀 Languages and Tools: -->
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
+                width="28" /> My Tools</h2></summary>
+<!--  <hr/> -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+            <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+            <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> &nbsp;&nbsp; 
+            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+            <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
+            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;&nbsp;
+            <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- <br/> -->
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ipankaj07&show_icons=true&locale=en&layout=compact" alt="ipankaj07" /></p> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipankaj07&label=Profile%20views&color=0e75b6&style=flat" alt="ipankaj07" /> </p>
+
+</br>
+
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" /> To connect with me</h2></summary>
+<!--                <hr/> -->
+
+<!-- <h3>Where to find me</h3> -->
+<p>
+<a href="https://github.com/ipankaj07" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> &nbsp;&nbsp; <a href="https://twitter.com/udocudown" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> &nbsp;&nbsp;  <a href="https://www.linkedin.com/in/pankaj-raj-9032311ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;  
+<a href="https://www.instagram.com/ipankaj.raj" target="_blank" ><img alt="Instagram" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;&nbsp;  <a href="mailto:praj4936@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</p>
+
+<!-- <a href="https://github.com/ipankaj07/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ipankaj07">
+</a> -->
+<img src = "https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ipankaj07&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B">
+
+<!-- </br> -->
+
+<p> Here's my Codewars Stats </p>
+<img src = "https://www.codewars.com/users/Ipankaj07/badges/micro"  width= "150">
+
