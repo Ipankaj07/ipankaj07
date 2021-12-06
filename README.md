@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pankaj Raj</h1>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy"> -->
 <img align='right' src="https://bit.ly/3lruk77" width="250" alt="giphy">
-I'm a passionate full stack web developer from india.
+I'm a passionate full stack web developer from India.
 
 <br/>
 
