@@ -6,9 +6,9 @@ I'm a passionate full stack web developer from India.
 <br/>
 
 - 👨‍💻 I’m currently working on **web development technologies** like JavaScript, React etc.
-- 📚 I’m currently learning everything about **Frontend** and **Backend** technologies 😅
+- 📚 Learning everything about **Frontend** and **Backend** technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new **ideas**.
-- ⚡ Fun fact **You can't make everyone happy** ✨
+<!-- - ⚡ Fun fact **You can't make everyone happy** ✨ -->
 
 </br>
 
@@ -40,8 +40,10 @@ I'm a passionate full stack web developer from India.
 
 <!-- <h3>Where to find me</h3> -->
 <p>
-<a href="https://github.com/ipankaj07" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/udocudown" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/pankaj-raj-9032311ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-<a href="https://www.instagram.com/ipankaj.raj" target="_blank" ><img alt="Instagram" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="mailto:praj4936@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- <a href="https://github.com/ipankaj07" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/udocudown" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  -->
+  <a href="https://www.linkedin.com/in/pankaj-raj-9032311ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<!-- <a href="https://www.instagram.com/ipankaj.raj" target="_blank" ><img alt="Instagram" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
+  <a href="mailto:praj4936@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
 
