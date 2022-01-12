@@ -28,8 +28,8 @@
 <br/>
 
 <a href="https://github.com/ipankaj07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipankaj07&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipankaj07&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipankaj07&theme=prussian&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipankaj07&theme=prussian&layout=compact" />
 </a>
 
 <!-- <br/> -->
