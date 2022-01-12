@@ -26,11 +26,14 @@
   
 
 <br/>
-
 <a href="https://github.com/ipankaj07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipankaj07&theme=prussian&show_icons=true" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipankaj07&theme=prussian&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipankaj07&theme=prussian&layout=compact" />
 </a>
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ipankaj07&theme=prussian)](https://git.io/streak-stats)
 
 ![Pankaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=ipankaj07&bg_color=172f45&color=81a1c1&line=d8dee9&point=88c0d0&area=true&hide_border=true)
 
