@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I'm an aspiring full stack web developer from India.
 <!-- - 🎓 &nbsp; I am currently working on web development technologies like JavaScript, React etc.. -->
+- 🤔 &nbsp; I'm an aspiring full stack web developer from India.
 - 🌱 &nbsp;  Currently working on web development technologies like JavaScript, React etc..
-<!-- - 🤝 &nbsp; I am always open and excited to learn and work with like minded people and want to be a successful developer. -->
+- 🤝 &nbsp; I am always open and excited to learn and work with like minded people and want to be a successful developer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
