@@ -27,23 +27,27 @@
   
 
 <br/>
-<a href="https://github.com/ipankaj07">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipankaj07&theme=prussian&show_icons=true" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipankaj07&theme=prussian&layout=compact" />
-</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipankaj07&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
+
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ipankaj07&theme=prussian)](https://git.io/streak-stats)
+## 🏆 Github Status 
 
-![Pankaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=ipankaj07&bg_color=172f45&color=81a1c1&line=d8dee9&point=88c0d0&area=true&hide_border=true)
+<img  src="https://github-readme-stats.vercel.app/api?username=ipankaj07&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ipankaj07&theme=react" width="48%" >
+<br>
 
-<!-- <br/> -->
+![github graph](https://activity-graph.herokuapp.com/graph?username=Ipankaj07&theme=react-dark)
+<br>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="">
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center">
 <a href="https://pankaj-portfolio.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-pankaj.portfolio.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/pankaj-raj-9032311ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pankaj%20Raj-blue?style=flat-square&logo=linkedin"></a>
 <!-- <a href="https://instagram.com/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vinayak.sharma_-blue?style=flat-square&logo=instagram"></a> -->
 <a href="mailto:praj4936@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-Praj4936@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=ipankaj07.ipankaj07" alt="Ipankaj07 :: Visitor's Count" /></p>
